@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents a machine learning model designed to analyze and predict typing performance metrics. The model leverages various regression techniques to evaluate typing speed, accuracy, and consistency based on historical data. The model has been trained and evaluated on a comprehensive dataset, achieving robust performance.
+This project presents a machine learning model designed to analyze and predict typing performance metrics. The model leverages a regression technique to evaluate typing speed, accuracy, and consistency based on historical data. The model has been trained and evaluated on a comprehensive dataset, achieving robust performance.
 
 ## Model Details
 
