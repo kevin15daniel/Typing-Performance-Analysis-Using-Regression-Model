@@ -81,4 +81,4 @@ This will return the predicted typing performance metrics for the given input da
 
 ## Conclusion
 
-This **Typing Performance Analysis Using Regression Model** is a powerful tool for analyzing and predicting typing performance metrics. It is robust, accurate, and can be easily integrated into various applications where typing performance analysis is necessary.
+This **Typing Performance Analysis Using Regression Model** is a powerful tool for analyzing and predicting typing performance metrics. It is accurate, robust, and can be easily integrated into various applications where typing performance analysis is necessary.
