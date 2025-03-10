@@ -41,6 +41,7 @@ The model was trained using the following setup:
 - **Evaluation Metrics**:
   - Mean Squared Error (MSE)
   - Root Mean Squared Error (RMSE)
+  - Sum of Squared Error (SSE)
   - Coefficient of Determination (R²)
 
 ### Training Results:
