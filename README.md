@@ -71,7 +71,7 @@ input_data = [[49.19, 92.28, 56.19, 77.38]]
 # Predict typing performance metrics
 prediction = model.predict(input_data)
 
-print("Predicted typing performance metrics:", prediction)
+print("Typing Performance Metrics:", prediction)
 ```
 
 This will return the predicted typing performance metrics for the given input data.
